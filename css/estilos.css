@@ -2,7 +2,7 @@
   --gris: #aaa;
   --rojo: #e93d50;
   --rojo-oscuro: #af303f;
-  --blanco: #fff;
+  --blanco: #ffffff;
   --luz: rgb(229, 255, 0);
 }
 
@@ -17,7 +17,7 @@ body {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Pasthelo', sans-serif;
   min-height: 100vh;
 }
 
