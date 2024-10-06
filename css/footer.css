@@ -1,6 +1,5 @@
 section.footer {
-    background-color: var(--color-de-fondo);
-    color: var(--color-de-fuente);
+    color: rgb(131, 3, 46);
     display: flex;
     flex: 0 0 auto;
     justify-content: center;
